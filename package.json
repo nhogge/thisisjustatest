@@ -1,0 +1,22 @@
+{
+  "name": "thisisjustatest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nhogge/thisisjustatest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhogge/thisisjustatest/issues"
+  },
+  "homepage": "https://github.com/nhogge/thisisjustatest",
+  "devDependencies": {
+    "bower": "^1.4.1"
+  }
+}

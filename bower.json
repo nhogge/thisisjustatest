@@ -1,0 +1,20 @@
+{
+  "name": "thisisjustatest",
+  "version": "0.0.0",
+  "homepage": "https://github.com/nhogge/thisisjustatest",
+  "authors": [
+    "KalebJS <kalebsmith11@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/lib/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.4"
+  }
+}
